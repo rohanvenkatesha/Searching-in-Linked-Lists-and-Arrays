@@ -20,7 +20,7 @@ The project consists of the following tasks:
 4. Depending on the count, sort the list in non-decreasing or non-increasing order and delete the second element.
 5. Insert the number 10 in its correct position without disrupting the order.
 6. Output the data in the final linked list.
-7. Repeat steps 2 to 5 using arrays.
+7. Repeat steps 2 to 5 using arrays instead of linked list
 8. Theoretical complexity analysis using Big O notation.
 9. Empirical measurement of time and space complexity.
 10. Comparison of theoretical and empirical complexities.
